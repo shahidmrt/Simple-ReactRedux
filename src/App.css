@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.btn{
+  background-color: gray;
+  color: orangered;
+  font-size: 25px;
+  margin:0 5px;
+  padding: 10px;
+  cursor: pointer;
+
+}
+input{
+  /* background-color: ; */
+  color: orangered;
+  font-size: 25px;
+  margin:0 5px;
+  padding: 10px;
+}
